@@ -25,3 +25,6 @@ Programming Language,Dart / Kotlin / Swift,The core language used for the applic
 Framework,Flutter / React Native / Android Native,The chosen platform for cross-platform or native UI development.
 Backend/Database,Node.js / Python (Django/Flask) + PostgreSQL / MongoDB,"Used for managing the server logic, product data, and user accounts."
 Payment Gateway,Stripe / PayPal SDK,Integration for secure online payment processing.
+
+
+YouTube Video:https://youtu.be/2xU7_vd9hDw?si=M3KR1IV0EdleSu53
